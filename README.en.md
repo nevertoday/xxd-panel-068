@@ -49,15 +49,16 @@ These four works reuse the corresponding independent sources and are regenerated
 <!-- xxd-human-intro:start -->
 ## Where this Panel fits — and what it solves
 
-When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
+When a photograph is meant to express an East Asian poetic sensibility, it can easily fall into a stock template of mountains and water, seals, calligraphy, and aged paper. Cultural symbols multiply while the subject, placement, and emotion of the original photograph disappear. True freehand expression is not about piling on classical elements; it is about knowing where to paint and where to leave space.
 
-**Panel 068** is suited to work that must retain the source's essential content while pursuing this visual direction: **Re-view the photo with the blank space, ink lines and light colors of oriental freehand brushwork**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
+**Panel 068** begins with the identities, poses, and relationships in the source, then reorganises the image through considered placement, treating blank space as form, pressure-sensitive ink lines, and restrained pale colour. Traditional ways of seeing coexist with modern editorial order; negative space carries air, distance, and lingering resonance rather than serving merely as an empty background.
 
 ### Use it when
 
-- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
-- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
-- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+- **People, landscapes, architecture, or objects need an East Asian poetic quality:** the subjects' identities and relationships still come from the photograph rather than being replaced with generic ink-painting motifs.
+- **You want cultural character without a pile-up of symbols:** considered placement, solid and void, density, and negative space matter more than seals or classical ornament.
+- **You want traditional brushwork to work in contemporary communication:** pressure-sensitive ink lines, two to four pale colours, and small inscription-like text are organised through modern editorial discipline.
+- **You need flexible delivery:** it supports top–bottom and left–right comparisons, design-only output, multiple aspect ratios, four-device wallpaper sets, and batch processing of image folders.
 
 ### A simple way to begin
 
@@ -65,7 +66,7 @@ You do not need to review every option first. Send your Agent an image and say:
 
 > Use XXD Panel 068 on this image and recommend the best layout and size first.
 
-Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+Use the samples above to confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference below.
 <!-- xxd-human-intro:end -->
 
 ## Original prompt · Five languages
