@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 068
+# 🦁 XXD Panel 068｜东方写意册
 
 ### 以东方写意的留白、墨线与淡彩重新观看照片
 

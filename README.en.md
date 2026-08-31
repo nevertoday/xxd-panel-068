@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 068
+# 🦁 XXD Panel 068｜Eastern Freehand Album
 
 ### Re-view the photo with the blank space, ink lines and light colors of oriental freehand brushwork
 
