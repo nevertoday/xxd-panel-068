@@ -65,6 +65,17 @@ You do not need to review every option first. Send your Agent an image and say:
 Use the samples above to confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference below.
 <!-- xxd-human-intro:end -->
 
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 068 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Re-view the photo with the blank space, ink lines and light colors of oriental freehand brushwork |
+| **Recognizable signature** | Oriental freehand brushwork · Using white as black · Ink line and light color · Typesetting of title and postscript · Modern editing order |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
 ## Usage tips
 
 - **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
@@ -73,6 +84,31 @@ Use the samples above to confirm the visual direction. When you are ready, conti
 - **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
 - **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
 - **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
+## Get started
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-068.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-068" ~/.codex/skills/xxd-panel-068
+```
+
+You can also install it directly with `npx skills`:
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-068 --skill xxd-panel-068
+```
+
+The command fetches the repository from GitHub and installs the same-named Skill for the current agent. To install it in the user-level Codex Skills directory, append `--global --agent codex --yes`.
+
+Claude Code users may link the same folder under `~/.claude/skills/xxd-panel-068`. Restart the agent session after installation.
+
+```text
+$xxd-panel-068
+Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
+```
+
+Full specifications: [Skill workflow](SKILL.md) · [source archive](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-068-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-068-prompt.zh-CN.md)
 
 ## Original prompt · Five languages
 
@@ -84,16 +120,6 @@ The Simplified Chinese file preserves the user's wording verbatim and remains th
 
 Panel 068 draws on the business position, the calculation of white and black, the interplay of virtual and real, and the gathering and dispersion of density. It uses ink lines with varying strokes, restrained light colors, and modern editing order to retain the identity and aftertaste of the subject, rather than copying the traditional Chinese painting template.
 
-<!-- xxd-panel-benefit:start -->
-## Quick fit check: is XXD Panel 068 right for you?
-
-| What you need to know | What this style gives you |
-|---|---|
-| **What you will get** | Re-view the photo with the blank space, ink lines and light colors of oriental freehand brushwork |
-| **Recognizable signature** | Oriental freehand brushwork · Using white as black · Ink line and light color · Typesetting of title and postscript · Modern editing order |
-| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
-| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
-<!-- xxd-panel-benefit:end -->
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
@@ -241,31 +267,6 @@ Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Imag
 If no suitable route is available, the Skill asks the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task without being echoed, displayed, logged, or exposed. They are not persisted, and provider, account, billing, or global route configuration is not modified, unless the user explicitly requests that configuration change.
 
 </details>
-
-## Get started
-
-```bash
-git clone https://github.com/nevertoday/xxd-panel-068.git
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/xxd-panel-068" ~/.codex/skills/xxd-panel-068
-```
-
-You can also install it directly with `npx skills`:
-
-```bash
-npx skills add https://github.com/nevertoday/xxd-panel-068 --skill xxd-panel-068
-```
-
-The command fetches the repository from GitHub and installs the same-named Skill for the current agent. To install it in the user-level Codex Skills directory, append `--global --agent codex --yes`.
-
-Claude Code users may link the same folder under `~/.claude/skills/xxd-panel-068`. Restart the agent session after installation.
-
-```text
-$xxd-panel-068
-Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
-```
-
-Full specifications: [Skill workflow](SKILL.md) · [source archive](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-068-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-068-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## Historical XXD Panel directory
