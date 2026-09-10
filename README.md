@@ -8,51 +8,36 @@
 
 </div>
 
-## 样张展示
-
-本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
-
-| sample-05 | sample-06 |
-| --- | --- |
-| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
-| sample-07 | sample-08 |
-| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-| sample-09 | sample-10 |
-| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
-| sample-11 | sample-12 |
-| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 16:9 左右双联样张
 
-四张横版均为独立完整画布生成：左侧保留现实摄影，右侧使用本 Panel 的原始提示词完成设计转译。
+以下四张为独立素材，完整 16:9 画布：左为现实摄影，右为本 Panel 设计转译，严格 50:50。文案由模型按原始提示词从当前照片智能生成。
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 068 left-right sample 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 068 left-right sample 2"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 068 样张 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 068 样张 6"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 068 left-right sample 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 068 left-right sample 4"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 068 样张 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 068 样张 8"></td>
   </tr>
 </table>
 
 ## 3:4 上下双联样张
 
-以下四张复用对应的独立素材，重新生成完整 3:4 画布；上部是现实摄影，下部是本 Panel 的设计转译。
+以下四张使用与 16:9 组完全不同的四张独立素材，重新生成完整 3:4 上下双联画布；上部保留现实摄影，下部遵循本 Panel 原始提示词重构。英文配字只从当前照片的内容、情绪或隐喻中生成。
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 068 top-bottom sample 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 068 top-bottom sample 2"></td>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 068 新增上下样张 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 068 新增上下样张 2"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 068 top-bottom sample 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 068 top-bottom sample 4"></td>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 068 新增上下样张 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 068 新增上下样张 4"></td>
   </tr>
 </table>
-
-<!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题
 
 照片想表达东方气韵时，最容易落入固定山水、印章、书法和古纸模板：文化符号变多了，原照片的主体、位置和情绪反而消失。真正的写意不是堆古典元素，而是知道哪里该画、哪里该留。
