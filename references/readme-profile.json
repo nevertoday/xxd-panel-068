@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 068｜Eastern Freehand Album: re-sees the subject, pose and relationship of a photo through Chinese freehand (xieyi) painting with a modern editorial order — background and minor details boldly left out, thin brush-ink lines with pressure changes, dry and wet strokes and edges that dissolve into blank paper, restrained light washes and dabs in two to four softened colours from the photo, the subject placed off-centre with a large, meaningful blank on the other side, and a few words set like a classical colophon in small, airy brush-style handwriting, sometimes paired with a fine modern typeface. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-068 or asks for Chinese ink-and-wash, xieyi freehand, light-colour brush or Eastern whitespace art from a photo.",
+  "short_description": "东方写意册：以写意墨线、淡彩和大片留白，用东方的方式重新看一张照片",
+  "zh-CN": {
+    "name": "东方写意册",
+    "tagline": "用写意墨线、淡彩和大片留白，以东方的眼光重新画一张照片。",
+    "look": "照片的背景和次要细节被大胆删去，只留下主体和一个清楚的故事，用有轻重、有枯湿变化的细墨线勾出，部分边缘直接消失在纸白里。颜色从照片里取两到四种，淡化、提纯后局部罩染或点染，整体清雅、略带灰度，不满铺。主体按自身走势偏向一侧，另一侧留出大片有意味的空白。文字像传统题跋，用小而疏朗的毛笔手写字沿主体或留白边缘竖排，偶尔配一行很细的现代字体。",
+    "traits": ["经营位置", "计白当黑", "墨线淡彩", "东方题跋", "现代编辑", "清雅留白"],
+    "good": [
+      "有走势和姿态的单一主体：一枝花、一只鸟、一个撑伞的人",
+      "简洁的山水或建筑：远山、湖边亭子、一段老城墙",
+      "器物和静物：一只茶杯、一把旧椅、瓶中一枝花"
+    ],
+    "poor": [
+      "需要工笔细描或写实还原的图：人像精修、产品细节、机械",
+      "颜色浓烈、元素拥挤的画面：霓虹街景、满屏人群、商场",
+      "想要浓墨重彩、仿古做旧、卡通国风或古风模板的需求"
+    ]
+  },
+  "en": {
+    "name": "Eastern Freehand Album",
+    "tagline": "Repaints your photo the Eastern way, with freehand ink lines, light washes and generous blank paper.",
+    "look": "Background and minor details are boldly left out, keeping only the subject and one clear story, drawn in fine ink lines that shift between heavy and light, dry and wet, with some edges simply fading into the paper. Two to four colours from the photo are softened and laid as light washes or dabs in places, staying delicate and slightly grey rather than filling the page. The subject leans to one side along its natural movement, leaving a large, meaningful blank on the other. Text works like a classical colophon: small, airy brush handwriting set vertically along the subject or the blank's edge, sometimes with one line of fine modern type.",
+    "traits": ["Considered placement", "Blank as form", "Ink line and light wash", "Colophon-style text", "Modern editorial order", "Quiet whitespace"],
+    "good": [
+      "A single subject with a clear gesture: a branch of blossom, a bird, a person with an umbrella",
+      "Simple landscapes or buildings: distant hills, a lakeside pavilion, a stretch of old city wall",
+      "Objects and still lifes: a teacup, an old chair, one stem in a vase"
+    ],
+    "poor": [
+      "Images that need fine detail or realism: retouched portraits, product details, machinery",
+      "Crowded, intensely coloured scenes: neon streets, packed crowds, shopping malls",
+      "Requests for heavy ink and colour, fake-antique ageing, cartoon Chinese style or ready-made period templates"
+    ]
+  },
+  "ja": {
+    "name": "東洋写意帖",
+    "tagline": "写意の墨線、淡彩、大きな余白で、写真を東洋の目で描き直します。",
+    "look": "背景や細かな部分は思い切って省き、主役と一つのはっきりした物語だけを残します。線は強弱や渇筆・潤筆の変化がある細い墨線で、輪郭の一部はそのまま紙の白に溶けていきます。色は写真から二〜四色を取り、淡く澄ませて部分的にぼかしや点描で置き、全体は清らかで少し灰みを帯び、画面を埋めません。主役は自分の流れに沿って片側に寄り、反対側には意味のある大きな余白が残ります。文字は古典の題跋のように、小さくゆったりした筆書きで主役や余白の縁に沿って縦に置き、細い現代書体を一行添えることもあります。",
+    "traits": ["経営位置", "計白当黒", "墨線と淡彩", "題跋風の文字", "現代の編集秩序", "清らかな余白"],
+    "good": [
+      "流れや姿のある一つの主役：一枝の花、一羽の鳥、傘をさす人",
+      "簡潔な山水や建築：遠くの山、湖畔のあずまや、古い城壁の一部",
+      "器や静物：湯のみ、古い椅子、花瓶の一輪"
+    ],
+    "poor": [
+      "細密描写や写実的な再現が必要な画像：レタッチした人物写真、商品の細部、機械",
+      "色が強く要素が混み合った場面：ネオン街、群衆、ショッピングモール",
+      "濃墨重彩、古びた加工、漫画風の中華テイスト、古風なテンプレートを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "동양 사의(寫意) 화첩",
+    "tagline": "사의 먹선과 담채, 넓은 여백으로 사진을 동양의 시선으로 다시 그립니다.",
+    "look": "배경과 부차적인 세부는 과감히 덜어내고 주인공과 분명한 이야기 하나만 남깁니다. 선은 강약과 마르고 젖은 변화가 있는 가는 먹선이며, 윤곽 일부는 그대로 종이의 흰빛 속으로 사라집니다. 색은 사진에서 두세 가지에서 네 가지를 골라 옅고 맑게 다듬어 군데군데 번지듯 덧칠하거나 찍어 주며, 전체는 맑고 약간 회색빛을 띠고 화면을 채우지 않습니다. 주인공은 자신의 흐름을 따라 한쪽으로 기울고, 반대쪽에는 의미 있는 넓은 여백이 남습니다. 글자는 옛 제발(題跋)처럼 작고 성긴 붓글씨로 주인공이나 여백 가장자리를 따라 세로로 놓이며, 가는 현대 서체 한 줄이 곁들여지기도 합니다.",
+    "traits": ["경영위치", "계백당흑", "먹선과 담채", "제발식 글씨", "현대 편집 질서", "맑은 여백"],
+    "good": [
+      "흐름과 자세가 있는 단일 주인공: 꽃 한 가지, 새 한 마리, 우산을 든 사람",
+      "간결한 산수나 건축: 먼 산, 호숫가 정자, 옛 성벽 한 구간",
+      "기물과 정물: 찻잔, 낡은 의자, 꽃병에 꽂힌 꽃 한 송이"
+    ],
+    "poor": [
+      "세밀한 묘사나 사실적 재현이 필요한 이미지: 보정한 인물 사진, 제품 세부, 기계",
+      "색이 강하고 요소가 빽빽한 장면: 네온 거리, 인파, 쇼핑몰",
+      "짙은 먹과 진한 채색, 고풍스러운 낡은 효과, 만화풍 동양 스타일, 고전풍 템플릿을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ألبوم الرسم الحر الشرقي",
+    "tagline": "يعيد رسم صورتك بالطريقة الشرقية، بخطوط حبر حرّة وألوان مائية خفيفة ومساحات بيضاء واسعة.",
+    "look": "تُحذف الخلفية والتفاصيل الثانوية بجرأة، ولا يبقى إلا العنصر الرئيسي وقصة واحدة واضحة، تُرسم بخطوط حبر رفيعة تتراوح بين الثقل والخفة والجفاف والبلل، وتذوب بعض حوافها في بياض الورق. تُؤخذ من الصورة لونان إلى أربعة ألوان، تُخفَّف وتُصفّى وتُوضع غسلاتٍ أو لمساتٍ خفيفة في مواضع محددة، فتبقى رقيقة مائلة إلى الرمادي قليلاً دون أن تملأ الصفحة. يميل العنصر إلى جانب وفق حركته الطبيعية، تاركاً في الجانب الآخر فراغاً واسعاً ذا معنى. أما النص فيأتي كحاشية الرسوم الصينية الكلاسيكية: خط فرشاة صغير متباعد، يُكتب عمودياً بمحاذاة العنصر أو حافة الفراغ، وأحياناً يرافقه سطر بحرف حديث رفيع.",
+    "traits": ["توزيع مدروس", "البياض جزء من الشكل", "خط حبر وغسلة خفيفة", "نص على طريقة الحواشي", "نظام تحريري حديث", "فراغ هادئ"],
+    "good": [
+      "عنصر واحد بحركة واضحة: غصن مزهر، طائر، شخص يحمل مظلة",
+      "مناظر طبيعية أو مبانٍ بسيطة: جبال بعيدة، جناح على ضفة بحيرة، جزء من سور مدينة قديم",
+      "أدوات وطبيعة صامتة: فنجان شاي، كرسي قديم، زهرة واحدة في مزهرية"
+    ],
+    "poor": [
+      "صور تحتاج إلى تفاصيل دقيقة أو واقعية: صور شخصية معدّلة، تفاصيل المنتجات، الآلات",
+      "مشاهد مزدحمة بألوان حادة: شوارع النيون، الحشود الكثيفة، مراكز التسوق",
+      "طلب حبر كثيف وألوان ثقيلة أو تعتيق مصطنع أو طابع صيني كرتوني أو قوالب تراثية جاهزة"
+    ]
+  }
+}

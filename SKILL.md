@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-068
-description: "Create XXD Panel 068 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-068 or requests the exact Panel 068 style."
+description: "XXD Panel 068｜Eastern Freehand Album: re-sees the subject, pose and relationship of a photo through Chinese freehand (xieyi) painting with a modern editorial order — background and minor details boldly left out, thin brush-ink lines with pressure changes, dry and wet strokes and edges that dissolve into blank paper, restrained light washes and dabs in two to four softened colours from the photo, the subject placed off-centre with a large, meaningful blank on the other side, and a few words set like a classical colophon in small, airy brush-style handwriting, sometimes paired with a fine modern typeface. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-068 or asks for Chinese ink-and-wash, xieyi freehand, light-colour brush or Eastern whitespace art from a photo."
 ---
 
 # XXD Panel 068
